@@ -16,7 +16,7 @@
 
 # 💫 About Me
 
-```javascript
+
 const jaskirat = {
     name: "Jaskirat Singh",
     location: "India 🇮🇳",
@@ -35,7 +35,7 @@ const jaskirat = {
     ],
     motto: "Code • Learn • Build • Repeat 🚀"
 }
-```
+
 
 - 🌱 Currently learning **Modern Web Development**
 - 💻 Passionate about building web applications

@@ -1,163 +1,195 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Jaskirat Singh</h1>
+<h3 align="center">B.Tech CSE (Cloud Computing Technology) Student | Aspiring Cloud & DevOps Engineer | AWS Enthusiast</h3>
 
-# 👋 Hi, I'm Jaskirat Singh
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Technologies;Welcome+to+my+GitHub+Profile!" alt="Typing SVG"/>
-
-<p>
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge"/>
-<img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?affiliations=OWNER&style=for-the-badge"/>
-</p>
-
-</div>
-
----
-
-# 💫 About Me
-
-```javascript
-const jaskirat = {
-  name: "Jaskirat Singh",
-  location: "India 🇮🇳",
-  role: "Full Stack Developer",
-
-  currentlyLearning: [
-    "JavaScript",
-    "React",
-    "Node.js",
-    "Express.js",
-    "MongoDB"
-  ],
-
-  interests: [
-    "Web Development",
-    "Open Source",
-    "Problem Solving"
-  ],
-
-  motto: "Code • Learn • Build • Repeat 🚀"
-};
-```
-
-- 🌱 Currently learning **Modern Web Development**
-- 💻 Passionate about building beautiful web applications
-- 🚀 Exploring Full Stack Development
-- 🤝 Open to collaborating on Open Source Projects
-- 📫 Email: **jaskiratsandhu6805@gmail.com**
-
----
-
-# 🚀 Tech Stack
-
-### 💻 Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,python,c,cpp" />
-</p>
-
-### 🎨 Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind" />
-</p>
-
-### ⚙️ Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### 🗄️ Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
-
-### 🛠 Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
 </p>
 
 ---
 
-# 📊 GitHub Stats
+## 👨‍💻 About Me
 
-<div align="center">
+🎓 I'm pursuing **B.Tech in Computer Science Engineering (Cloud Computing Technology)**.
+
+☁️ Passionate about **Cloud Computing, DevOps, Linux, Automation, and Modern Infrastructure**.
+
+🚀 Currently learning and building projects using **AWS, Docker, Git, Linux, Jenkins, and Terraform**.
+
+💡 I enjoy solving real-world problems by creating scalable and efficient cloud solutions.
+
+🌱 Continuously improving my skills in **Cloud Infrastructure, CI/CD, Infrastructure as Code (IaC), and System Administration**.
+
+---
+
+# 🚀 Core Competencies
+
+- ☁️ Cloud Computing (AWS)
+- 🐳 Docker Containerization
+- 🔄 CI/CD Concepts
+- 🔧 Jenkins Automation
+- 🐧 Linux Administration
+- 🌐 Git & GitHub
+- ⚙️ Infrastructure as Code (Terraform)
+- 🌍 Web Server Configuration (Nginx)
+- 📦 Application Deployment
+- 🛠️ Problem Solving
+
+---
+
+# 🛠️ Technology Stack
+
+## ☁️ Cloud & DevOps
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=aws,docker,jenkins,terraform,git,github" />
+
+</p>
+
+---
+
+## 💻 Programming Languages
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,html,css" />
+
+</p>
+
+---
+
+## 🐧 Operating Systems & Tools
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=linux,bash,vscode,ubuntu" />
+
+</p>
+
+---
+
+# 💼 Academic & Personal Projects
+
+### ☁️ Cloud-Based Application Deployment
+
+- Deployed applications on AWS EC2
+- Configured Linux servers
+- Managed security groups and networking
+- Hosted web applications
+
+---
+
+### 🔹 Dockerized Applications
+
+- Containerized web applications using Docker
+- Built custom Docker images
+- Managed containers and networking
+- Improved deployment consistency
+
+---
+
+### 🔹 CI/CD Learning Projects
+
+- Created Jenkins pipelines
+- Automated build and deployment processes
+- Integrated GitHub repositories
+- Explored deployment automation
+
+---
+
+### 🔹 Linux Administration
+
+- User & Permission Management
+- Shell Commands
+- Process Monitoring
+- Package Management
+- Networking Basics
+
+---
+
+# 📚 Currently Learning
+
+- ☁️ Advanced AWS Services
+- 🐳 Kubernetes
+- ⚙️ Terraform
+- 🔄 GitHub Actions
+- 📦 Docker Compose
+- ☸️ Kubernetes Deployment
+- 🚀 DevOps Best Practices
+
+---
+
+# 🏆 Certifications
+
+- 🎓 AWS Cloud Computing (In Progress)
+- 🎓 DevOps Engineering
+- 🎓 Linux Administration
+- 🎓 Docker Fundamentals
+
+> *(Update this section with your official certifications.)*
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</div>
+</p>
 
 ---
 
 # 🔥 GitHub Streak
 
-<div align="center">
+<p align="center">
 
 <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
 
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&column=7"/>
-
-</div>
+</p>
 
 ---
 
 # 📈 Contribution Graph
 
-<div align="center">
+<p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
 
-</div>
+</p>
 
 ---
 
 # 🌐 Connect With Me
 
-<div align="center">
+<p align="left">
 
 <a href="mailto:jaskiratsandhu6805@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-&nbsp;&nbsp;&nbsp;
 
 <a href="https://linkedin.com/in/jaskirat-singh-b855a7301">
-<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-</div>
+</p>
 
 ---
 
-# 💭 Quote
+# 🎯 Career Objective
 
-<div align="center">
-
-> **"The best way to predict the future is to create it."**
-
-</div>
+As a Computer Science Engineering student specializing in **Cloud Computing Technology**, I aspire to build scalable, secure, and reliable cloud infrastructure while continuously expanding my expertise in **Cloud Computing, DevOps, Automation, and Infrastructure as Code**. I am passionate about learning modern technologies and contributing to impactful software and cloud solutions.
 
 ---
 
-<div align="center">
+# 💡 Quote
 
-## ⭐ Thanks for visiting my profile!
+> **"Learning never exhausts the mind. Every project is another step toward mastery."**
 
-If you like my work, don't forget to ⭐ my repositories.
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=120&section=footer"/>
-
-</div>
+<p align="center">
+⭐ From <b>Jaskirat Singh</b> | Building Cloud Skills One Project at a Time 🚀
+</p>
